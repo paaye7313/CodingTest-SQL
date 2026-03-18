@@ -1,0 +1,11 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
+
+# 데이터베이스
+*.db
+*.sqlite
+*.bak
+.DS_Store
